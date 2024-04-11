@@ -2,7 +2,7 @@
 
 Check out the live version of the Todo App deployed on vercel:
 
-[Live Demo](https://amazon-clone-pqlg7sgvi-rahul-deys-projects.vercel.app/)
+[Live Demo](https://amazon-clone-sigma-coral.vercel.app/)
 
 
 # amazon-clone
